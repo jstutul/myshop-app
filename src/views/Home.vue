@@ -12,12 +12,12 @@
                         v-for="cat in categories"
                         v-bind:key="cat.id"
                     >
-                        <SingleMenu :category="cat" />
+                        <SingleMenu :category="cat" isShow="" />
                     </li>
                 </ul>
             </nav>
         </div>
-        <div class="col-md-9 p-0">
+        <div class="col-lg-9">
             <div
                 id="mainCarousel"
                 class="carousel slide"
@@ -62,7 +62,9 @@
             </div>
         </div>
     </div>
-    <NewArraival />
+    <div class="row mb-4">
+        <NewArraival :data="newarraival" title="New Arraival" col="4"/>
+    </div>
 </template>
 
 <script>
@@ -79,6 +81,7 @@ export default {
         return {
             categories: [],
             sliders: [],
+            newarraival:[]
         };
     },
     async mounted() {
@@ -90,6 +93,10 @@ export default {
         if (sliderResponse.data.length > 0) {
             this.sliders = sliderResponse.data;
         }
+        var newarraivalResponse = await axios.get("http://localhost:3000/products");
+        if(newarraivalResponse.data.length>0){
+            this.newarraival=newarraivalResponse.data.filter(x=>x.isNew==1);
+        }
     },
 };
 </script>
@@ -98,9 +105,7 @@ export default {
     .bd-links {
         position: -webkit-sticky;
         position: sticky;
-        top: 5rem;
         display: block !important;
-        height: calc(100vh - 7rem);
         padding-left: 0.25rem;
         margin-left: -0.25rem;
         overflow-y: auto;
@@ -160,7 +165,7 @@ export default {
         color: #fff;
     }
 }
-.collapse.show ul {
+.small>li {
     margin-left: 10px;
 }
 </style>

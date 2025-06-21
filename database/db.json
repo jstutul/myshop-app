@@ -58,5 +58,307 @@
             "id": 4,
             "name": "Accessories"
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple MacBook Pro 14 inch M3 Chip Liquid Retina Display 8GB RAM 512GB SSD Silver",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "The Apple MacBook Pro with M3 chip—8‑core CPU, 10‑core GPU, 100 GB/s memory bandwidth, hardware‑accelerated codecs—ideal for professionals.",
+            "price": "1,65,00.00৳",
+            "ratting": "4.5",
+            "images": [
+            "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-01-500x500.webp",
+            "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-02-500x500.webp",
+            "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-03-500x500.webp"
+            ],
+            "isNew": 1
+        },
+        {
+            "id": 2,
+            "name": "Dell Inspiron 15 3520 Core i3‑1215U 15.6\" FHD Laptop 8GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Dell Inspiron 15 3520 with Intel Core i3‑1215U, 8 GB RAM, 512 GB SSD, FHD display, fingerprint reader—great for students/business.",
+            "price": "53,000৳",
+            "ratting": "4.2",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3520/inspiron-15-3520-black-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3520/inspiron-15-3520-black-0003-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3520/inspiron-15-3520-black-0005-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 3,
+            "name": "Dell Inspiron 15 3530 Core i5‑13th Gen 15.6\" FHD Laptop 16GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Dell Inspiron 15 3530 with Core i5‑13th Gen, 16 GB RAM, 512 GB SSD, fingerprint reader—ideal for productivity.",
+            "price": "68,500৳",
+            "ratting": "4.5",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3530/inspiron-15-3530-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3530/inspiron-15-3530-04-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3530/inspiron-15-3530-06-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 4,
+            "name": "Dell XPS 13 9340 Core Ultra 5 125H 13.4\" FHD+ Laptop",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Premium Dell XPS 13 9340 with Intel Core Ultra 5 125H, 13.4\" FHD+ display, sleek chassis—great for professionals.",
+            "price": "222,000৳",
+            "ratting": "4.8",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-13-9340/xps-13-9340-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-13-9340/xps-13-9340-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-13-9340/xps-13-9340-04-500x500.webp"
+            ],
+            "isNew": 1
+        },
+        {
+            "id": 5,
+            "name": "Acer Aspire 5 Core i5‑14th Gen 15.6\" FHD Laptop 8GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Acer Aspire 5 with Intel Core i5‑14th Gen, 8 GB RAM, 512 GB SSD—solid all‑rounder for everyday use.",
+            "price": "80,000৳",
+            "ratting": "4.4",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-5-a515-58gm-57gf/aspire-5-a515-58gm-57gf-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-5-a515-58gm-57gf/aspire-5-a515-58gm-57gf-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-5-a515-58gm-57gf/aspire-5-a515-58gm-57gf-02-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 6,
+            "name": "HP 15‑fd1108TU Core 3‑100U 15.6\" FHD Laptop 8GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "HP 15‑fd1108TU with Intel Core 3‑100U (6‑core), 8 GB DDR4, 512 GB SSD, Wi‑Fi 6E and privacy shutter—budget friendly.",
+            "price": "63,800৳",
+            "ratting": "4.3",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1108tu/15-fd1108tu-001-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1108tu/15-fd1108tu-002-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1108tu/15-fd1108tu-003-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 7,
+            "name": "HP 15‑fc0334AU Ryzen 5 7520U 15.6\" FHD Laptop 16GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "HP 15‑fc0334AU with Ryzen 5 7520U, 16 GB LPDDR5, 512 GB SSD, FHD anti‑glare display—great for multitasking.",
+            "price": "65,500৳",
+            "ratting": "4.6",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1108tu/15-fd1108tu-001-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1108tu/15-fd1108tu-002-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1108tu/15-fd1108tu-003-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 8,
+            "name": "HP Envy x360 14‑fc0048TU Core Ultra 7 155U 14\" 3K OLED Touch Laptop 16GB RAM 1TB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "HP Envy x360 14‑fc0048TU convertible with Intel Core Ultra 7 155U, 16 GB LPDDR5, 1 TB SSD, OLED touch display—premium build.",
+            "price": "152,000৳",
+            "ratting": "4.7",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-2-in-1-14-fc0048tu/envy-x360-2-in-1-14-fc0048tu-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-2-in-1-14-fc0048tu/envy-x360-2-in-1-14-fc0048tu-03-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-2-in-1-14-fc0048tu/envy-x360-2-in-1-14-fc0048tu-06-500x500.webp"
+            ],
+            "isNew": 1
+        },
+        {
+            "id": 9,
+            "name": "Microsoft Surface Pro 9 Core i5‑1245U 13\" Touch Laptop 8GB RAM 256GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Microsoft Surface Pro 9 with Intel Core i5‑1245U, 8 GB LPDDR5, 256 GB SSD, 13\" PixelSense Flow touchscreen—tablet/laptop hybrid.",
+            "price": "168,000৳",
+            "ratting": "4.6",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro-9/surface-pro-9-platinum-001-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro-9/surface-pro-9-platinum-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro-9/surface-pro-9-platinum-002-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 10,
+            "name": "Microsoft Surface Laptop Go 3 Core i5‑1235U 12.4\" QHD Touch Laptop 8GB RAM 256GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Surface Laptop Go 3 with Intel Core i5‑1235U, 8 GB LPDDR5X, 256 GB SSD, 12.4\" QHD touchscreen—portable and stylish.",
+            "price": "133,500৳",
+            "ratting": "4.5",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/xks-00001/xks-00001-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/xks-00001/xks-00001-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/xks-00001/xks-00001-03-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 11,
+            "name": "Lenovo IdeaPad Gaming 3 15ACH6 Ryzen 5 5500H RTX 2050 15.6\" 144Hz 16GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Gaming Laptop",
+            "description": "Lenovo IdeaPad Gaming 3 with Ryzen 5 5500H, RTX 2050, 16 GB RAM, 512 GB SSD, 144 Hz FHD display—budget gaming setup.",
+            "price": "87,000৳",
+            "ratting": "4.4",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-gaming-3/ideapad-gaming-3-001-500x500.jpg",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-gaming-3/ideapad-gaming-3-002-500x500.jpg",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-gaming-3/ideapad-gaming-3-004-500x500.jpg"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 12,
+            "name": "Asus ROG Strix SCAR 16 G635LW Core Ultra 9 RTX 5080 16\" WQXGA Gaming Laptop",
+            "category": "Computer & Laptop",
+            "subcategory": "Gaming Laptop",
+            "description": "Asus ROG Strix SCAR 16 with top‑tier Core Ultra 9, RTX 5080, 16\" WQXGA display—ultimate gaming powerhouse.",
+            "price": "482,990৳",
+            "ratting": "4.9",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-strix-scar-16-g635lw/rog-strix-scar-16-g635lw-1-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-strix-scar-16-g635lw/rog-strix-scar-16-g635lw-2-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-strix-scar-16-g635lw/rog-strix-scar-16-g635lw-4-500x500.webp"
+            ],
+            "isNew": 1
+        },
+        {
+            "id": 13,
+            "name": "Acer Nitro V 15 ANV15-51 Core i7‑13th Gen 15.6\" FHD Gaming Laptop",
+            "category": "Computer & Laptop",
+            "subcategory": "Gaming Laptop",
+            "description": "Acer Nitro V15 with Intel Core i7‑13th, 15.6\" FHD display—solid mid‑range gaming performer.",
+            "price": "141,000৳",
+            "ratting": "4.5",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/acer/nitro-v-15-anv15-51-0/nitro-v-15-anv15-51-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/acer/nitro-v-15-anv15-51-0/nitro-v-15-anv15-51-0-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 14,
+            "name": "MSI Thin A15 B7VE Ryzen 7 7735HS RTX 4050 15.6\" FHD Gaming Laptop",
+            "category": "Computer & Laptop",
+            "subcategory": "Gaming Laptop",
+            "description": "MSI Thin A15 B7VE with Ryzen 7 7735HS, RTX 4050, 15.6\" FHD—thin and powerful for gaming.",
+            "price": "135,000৳",
+            "ratting": "4.6",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/msi/thin-a15-b7ve/thin-a15-b7ve-1-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/msi/thin-a15-b7ve/thin-a15-b7ve-2-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/msi/thin-a15-b7ve/thin-a15-b7ve-4-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 15,
+            "name": "Gigabyte G6 KF Core i7‑13th Gen RTX 4060 16\" 165Hz Gaming Laptop",
+            "category": "Computer & Laptop",
+            "subcategory": "Gaming Laptop",
+            "description": "Gigabyte G6 KF with Core i7‑13th, RTX 4060, 16\" 165 Hz display—excellent mid‑high tier gaming machine.",
+            "price": "144,500৳",
+            "ratting": "4.5",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/gigabyte/g6-kf/g6-kf-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/gigabyte/g6-kf/g6-kf-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/gigabyte/g6-kf/g6-kf-03-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 16,
+            "name": "Lenovo LOQ 15AHP9 Ryzen 5 8645HS RTX 4050 15.6\" Gaming Laptop",
+            "category": "Computer & Laptop",
+            "subcategory": "Gaming Laptop",
+            "description": "Lenovo LOQ 15AHP9 with Ryzen 5 8645HS, RTX 4050, 15.6\" display—lightweight yet capable gaming laptop.",
+            "price": "150,000৳",
+            "ratting": "4.4",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15ahp9/loq-15ahp9-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15ahp9/loq-15ahp9-10-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/loq-15ahp9/loq-15ahp9-02-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 17,
+            "name": "Microsoft Surface Laptop 5 Core i5‑12th Gen 13.5\" QHD Touch Laptop 16GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Surface Laptop 5 with Intel Core i5‑12th Gen, 16 GB LPDDR5X, 512 GB SSD, QHD touchscreen—sleek and premium.",
+            "price": "167,500৳",
+            "ratting": "4.7",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-5-r8p-00024/surface-laptop-5-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-5-r8p-00024/surface-laptop-5-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-5-r8p-00024/surface-laptop-5-03-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 18,
+            "name": "Microsoft Surface Laptop Studio 2 Core i7‑13th Gen 16GB RAM 512GB SSD 14.4\" Touch Laptop",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "Surface Laptop Studio 2 convertible with Core i7, 16 GB RAM, 512 GB SSD, 14.4\" touchscreen, RTX 4060—creator‑focused powerhouse.",
+            "price": "215,000৳",
+            "ratting": "4.8",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-studio-2/surface-laptop-studio-2-03-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-studio-2/surface-laptop-studio-2-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-studio-2/surface-laptop-studio-2-01-500x500.webp"
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 19,
+            "name": "HP 14‑ep0200TU Core i5‑13th Gen 14\" FHD Laptop 16GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "HP 14‑ep0200TU with Intel Core i5‑13th Gen, 16 GB RAM, 512 GB SSD, backlit keyboard—compact daily driver.",
+            "price": "74,000৳",
+            "ratting": "4.5",
+            "images": [
+              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-01-500x500.webp",
+              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-03-500x500.webp",
+              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-02-500x500.webp"  
+            ],
+            "isNew": 0
+        },
+        {
+            "id": 20,
+            "name": "HP 255 G9 Ryzen 5 5625U 15.6\" HD Laptop 8GB RAM 512GB SSD",
+            "category": "Computer & Laptop",
+            "subcategory": "Laptop",
+            "description": "HP 255 G9 with Ryzen 5 5625U, 8 GB RAM, 512 GB SSD—budget business laptop with reliable performance.",
+            "price": "57,300৳",
+            "ratting": "4.3",
+            "images": [
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/255-g9/255-g9-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/255-g9/255-g9-03-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/255-g9/255-g9-02-500x500.webp"
+            ],
+            "isNew": 0
+        }
     ]
+
 }
