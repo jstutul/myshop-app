@@ -22,7 +22,7 @@
                     </li>
                     <li class="nav-item">
                         <router-link to="/cart" class="nav-link"
-                            >Cart</router-link
+                            >Cart({{ cart.totalQuantity }})</router-link
                         >
                     </li>
                 </ul>
@@ -32,7 +32,12 @@
 </template>
 
 <script>
+import { useCartStore } from "@/store/cartStore";
 export default {
     name: "Header",
+    setup() {
+        const cart = useCartStore();
+        return { cart };
+    },
 };
 </script>

@@ -13,31 +13,47 @@
                         v-for="cat in categories"
                         v-bind:key="cat.id"
                     >
-                        <SingleMenu :category="cat" isShow="show"  />
+                        <SingleMenu
+                            :getCategory="getCategory"
+                            :category="cat"
+                            isShow="show"
+                        />
                     </li>
                 </ul>
             </nav>
         </div>
         <div class="col-lg-9">
-        <NewArraival :data="products"  title="Product Lsit" col="3"/>
+            <NewArraival :data="products" title="Product Lsit" col="3" />
         </div>
-        
     </div>
 </template>
 
 <script>
 import axios from "axios";
-import NewArraival from '../components/NewArraival.vue'
-import SingleMenu from '../components/SingleMenu.vue'
+import NewArraival from "../components/NewArraival.vue";
+import SingleMenu from "../components/SingleMenu.vue";
 export default {
-    name: "Products", data() {
+    name: "Products",
+    data() {
         return {
             categories: [],
-            products:[]
+            products: [],
         };
     },
-    components:{
-        NewArraival,SingleMenu
+    methods: {
+        getCategory(cat, sub = "") {
+            this.products = this.products.filter((x) => {
+                if (sub) {
+                    return x.category === cat && x.subcategory === sub;
+                } else {
+                    return x.category === cat;
+                }
+            });
+        },
+    },
+    components: {
+        NewArraival,
+        SingleMenu,
     },
     async mounted() {
         const response = await axios.get("http://localhost:3000/categories");
@@ -45,8 +61,8 @@ export default {
             this.categories = response.data;
         }
         var result = await axios.get("http://localhost:3000/products");
-        if(result.data.length>0){
-            this.products=result.data;
+        if (result.data.length > 0) {
+            this.products = result.data;
         }
     },
 };

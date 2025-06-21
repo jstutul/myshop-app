@@ -69,9 +69,9 @@
             "price": "1,65,00.00৳",
             "ratting": "4.5",
             "images": [
-            "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-01-500x500.webp",
-            "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-02-500x500.webp",
-            "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-03-500x500.webp"
+                "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-02-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14-inch-silver/macbook-pro-14-inch-silver-03-500x500.webp"
             ],
             "isNew": 1
         },
@@ -139,7 +139,7 @@
             "id": 6,
             "name": "HP 15‑fd1108TU Core 3‑100U 15.6\" FHD Laptop 8GB RAM 512GB SSD",
             "category": "Computer & Laptop",
-            "subcategory": "Laptop",
+            "subcategory": "Hp",
             "description": "HP 15‑fd1108TU with Intel Core 3‑100U (6‑core), 8 GB DDR4, 512 GB SSD, Wi‑Fi 6E and privacy shutter—budget friendly.",
             "price": "63,800৳",
             "ratting": "4.3",
@@ -338,9 +338,9 @@
             "price": "74,000৳",
             "ratting": "4.5",
             "images": [
-              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-01-500x500.webp",
-              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-03-500x500.webp",
-              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-02-500x500.webp"  
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-01-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-03-500x500.webp",
+                "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-02-500x500.webp"
             ],
             "isNew": 0
         },
@@ -360,5 +360,4 @@
             "isNew": 0
         }
     ]
-
 }
